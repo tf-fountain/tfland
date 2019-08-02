@@ -8,8 +8,7 @@
 #　　　2　：　[朝](か)　と改行を付加
 #
 #
-#    2019/08/01 Fri by T.Fujioka
-#
+#    2019/08/01 Fri by T.Fujioka　　オプション（引数）で出力を変えるようにした
 #
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
